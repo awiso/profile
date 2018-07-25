@@ -91,3 +91,19 @@ ul {
   margin-right: auto;
   width: 50%;
 }
+
+#sidebar {
+  position: fixed;
+  width: 200px;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  background-color: rgb(54, 121, 128);
+}
+#page-content {
+  margin-left: 300px;
+}
+
+.space {
+  padding: 30px;
+}
